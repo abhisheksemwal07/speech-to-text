@@ -2,7 +2,7 @@
   "name": "speech",
   "version": "0.1.0",
   "private": true,
-  "homepage": "git remote add origin https://github.com/abhisheksemwal07/speech-to-text-converter.git",
+  "homepage": "git remote add origin https://github.com/abhisheksemwal07/speech-to-text.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
